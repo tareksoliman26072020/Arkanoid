@@ -1,5 +1,6 @@
 # Arkanoid
 
+The game is implemented in java using [processing](https://processing.org/)
 ### Game Structure:
 + I have main program that opens a window with proper dimensions.
 + The program have a global ArrayList for storing the blocks.
