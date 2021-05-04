@@ -1,3 +1,4 @@
+My goal is to immitate the game [Arkanoid](https://www.youtube.com/watch?v=Th-Z6QQ5AOQ)
 # Arkanoid
 
 The game is implemented in java using [processing](https://processing.org/)
